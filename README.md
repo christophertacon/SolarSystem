@@ -1,4 +1,4 @@
-# SolarSystem
+# Solar System
 Orbital and physical properties of every object in the solar system
 
 This is a collection of data gathered from NASA, the Minor Planet Center and the Wolgram Knowledge Base.
@@ -20,3 +20,4 @@ Rotational Period (hours)
 Obliquity (degrees)
 
 For any feature request or issues found please contact me: cjct1g14@soton.ac.uk
+Please note moons will be added at a later date
